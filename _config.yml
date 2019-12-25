@@ -1,5 +1,5 @@
-title: Texture Theme
-author: GitHub User
+title: 汪倩的博客
+author:汪倩
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 汪倩
+  tagline: 学生·
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
